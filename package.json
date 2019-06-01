@@ -1,0 +1,25 @@
+{
+	"name": "colorlib2",
+	"version": "1.0.0",
+	"description": "Some utilities to deal with colors.",
+	"repository": 
+	{
+		"type": "git",
+		"url": "git+https://github.com/madprops/colorlib.git"
+	},
+	"main": "colorlib.js",
+	"files":
+	[
+		"colorlib.js"
+	],
+	"keywords": 
+	[
+		"colors"
+	],
+	"author": "Merkoba <merkoba@airmail.cc>",
+	"license": "MIT",
+	"bugs": 
+	{
+		"url": "https://github.com/madprops/colorlib/issues"
+	}
+}
